@@ -10,5 +10,7 @@ public class Demo {
 		
 		System.out.println("this user 1, my scond commit");
 		
+		System.out.println("this is user 2 second commit");
+		
 	}
 }
