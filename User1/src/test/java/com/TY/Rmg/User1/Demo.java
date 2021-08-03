@@ -15,5 +15,7 @@ public class Demo {
 
 		System.out.println("this is user 2 second commit");
 		
+		System.out.println("hi im branch 1");
+		
 	}
 }
