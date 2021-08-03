@@ -5,5 +5,9 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("hi this is my first commit");
+		
+		System.out.println("this is user 2, this is my first commit");
+		
+		
 	}
 }
