@@ -8,6 +8,7 @@ public class Demo {
 		
 		System.out.println("this is user 2, this is my first commit");
 		
+		System.out.println("this user 1, my scond commit");
 		
 	}
 }
